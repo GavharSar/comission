@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b0864c6-9111-446a-b185-4da65d3f4d99" name="Changes" comment="&#10;erroneous code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4b0864c6-9111-446a-b185-4da65d3f4d99" name="Changes" comment="&#10;error code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676668944570</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&#10;error code">
+      <created>1676709919010</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676709919010</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,6 +244,7 @@
     <MESSAGE value="edit code" />
     <MESSAGE value="add test" />
     <MESSAGE value="&#10;erroneous code" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;erroneous code" />
+    <MESSAGE value="&#10;error code" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;error code" />
   </component>
 </project>
